@@ -1,5 +1,5 @@
 ### Hi There, I'm Emre 👋
-I'm a passionate Android Developer. Also Co-Lead of Google Developer Groups Konya
+I'm a passionate Android Developer. Also Co-Lead of [Google Developer Groups Konya](https://www.linkedin.com/posts/emre-%C3%B6zcan-6aa582193_devfest2021-activity-6863175365171437568-UhOl)
 
 <img align="right"  height="300" src="https://user-images.githubusercontent.com/49096704/142056204-a99cad45-db72-4d3b-a785-b2fc949e2b52.gif">
 
