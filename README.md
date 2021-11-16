@@ -5,7 +5,7 @@ I'm a passionate Android Developer. Also Co-Lead of [Google Developer Groups Kon
 
 ---
 
-**About me**
+**👨‍💻 About me**
 
 - 💼 Android Developer at [Appcent](https://www.appcent.mobi/)
 
@@ -18,7 +18,7 @@ I'm a passionate Android Developer. Also Co-Lead of [Google Developer Groups Kon
 - 🔴 Live [Streams](https://docs.google.com/document/d/1D5T5nw85QSiODZtXoAkJys7DqfSQKOIYRFSOGO0Tnxw/edit?usp=sharing)
 
 ***
-**🚀Languages and Tools:**
+**🚀 Languages and Tools:**
 <br/><br/>
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054706-4e4b6ff0-e2b8-4870-bf74-23e193676300.png">
 <img height="30" src="https://user-images.githubusercontent.com/49096704/142054822-ccd82217-ebc8-4364-b71f-e9910f77f8f6.png">
