@@ -11,7 +11,7 @@ I'm a passionate Android Developer. Also Co-Lead of [Google Developer Groups Kon
 
 - ❤️ I love writing Kotlin
 
-- 💬 Ask me about anything [here](developer.emreozcan@gmail.com)
+- 💬 Ask me about anything [here](mailto:developer.emreozcan@gmail.com)
 
 - ▶️ My Tutorial [Videos](https://docs.google.com/document/d/1sFhAqlnKKSCOLqYoxXbigKoyim0ESbUM3UWPiXFKU7Q/edit?usp=sharing)
 
