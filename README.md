@@ -35,7 +35,9 @@ I'm a passionate Android Developer. Also Co-Lead of [Google Developer Groups Kon
 
 #### Top Repositories
 
-
+<a href="https://github.com/emre-ozcan/CryptoApplication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emre-ozcan&repo=CryptoApplication" />
+</a>
 <a href="https://github.com/emre-ozcan/Food-Recipes-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emre-ozcan&repo=Food-Recipes-App" />
 </a>
