@@ -7,7 +7,7 @@ I'm a passionate Android Developer. Also Lead of [Google Developer Groups Konya]
 
 **👨‍💻 About me**
 
-- 💼 Android Developer at [Appcent](https://www.appcent.mobi/)
+- 💼 Android Developer at [Ordulu Teknoloji](https://www.ordulu.com/)
 
 - ❤️ I love writing Kotlin
 
