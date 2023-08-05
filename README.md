@@ -6,16 +6,13 @@ I'm a passionate Android Developer.
 ---
 
 **👨‍💻 About me**
+- 🌐  [My Portfolio](https://bit.ly/emreozcandev)
 
 - 💼 Android Developer at [Ordulu Teknoloji](https://www.ordulu.com/)
 
 - ❤️ I love writing Kotlin
 
 - 💬 Ask me about anything [here](mailto:developer.emreozcan@gmail.com)
-
-- ▶️ My Tutorial [Videos](https://docs.google.com/document/d/1sFhAqlnKKSCOLqYoxXbigKoyim0ESbUM3UWPiXFKU7Q/edit?usp=sharing)
-
-- 🔴 Live [Streams](https://docs.google.com/document/d/1D5T5nw85QSiODZtXoAkJys7DqfSQKOIYRFSOGO0Tnxw/edit?usp=sharing)
 
 - 📱  My Apps in the [Play Store](https://play.google.com/store/apps/developer?id=Emre+Ozcan)
 
