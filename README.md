@@ -44,8 +44,3 @@ I'm a passionate Android Developer.
 
 <br />
 <br />
-
-***
-#### My Stats
-[![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emre-ozcan)](https://github.com/emre-ozcan?tab=repositories)
-
