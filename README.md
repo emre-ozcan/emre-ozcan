@@ -30,17 +30,18 @@ I'm a passionate Android Developer.
 
 ***
 
-#### Top Repositories
-
-<a href="https://github.com/emre-ozcan/CryptoApplication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emre-ozcan&repo=CryptoApplication"/>
-</a>
-<a href="https://github.com/emre-ozcan/Food-Recipes-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emre-ozcan&repo=Food-Recipes-App" />
-</a>
-<a href="https://github.com/emre-ozcan/Flight-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emre-ozcan&repo=Flight-App" />
-</a>
-
-<br />
+<p align="center">
+ <a href="https://bit.ly/emreozcandev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"" />
+ </a>
+ <a href="https://www.linkedin.com/in/emre-özcan-6aa582193" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white""/>
+ </a>
+ <a href="https://www.instagram.com/emreozcan.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://youtube.com/@emreozcandev?si=q7lPZDyTrfUOW2C9" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  />
+  </a> 
+</p>
 <br />
