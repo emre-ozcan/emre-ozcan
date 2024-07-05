@@ -8,7 +8,7 @@ I'm a passionate Android Developer.
 **👨‍💻 About me**
 - 🌐  [My Portfolio](https://bit.ly/emreozcandev)
 
-- 💼 Android Developer at [Ordulu Teknoloji](https://www.ordulu.com/)
+- 💼 Android Developer at [İnnova](https://www.innova.com.tr/home)
 
 - ❤️ I love writing Kotlin
 
