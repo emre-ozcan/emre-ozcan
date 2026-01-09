@@ -1,47 +1,67 @@
-### Hi There, I'm Emre 👋
-I'm a passionate Android Developer.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=300&section=header&text=Hi%20there,%20I'm%20Emre!&fontSize=60&fontAlign=50&fontAlignY=35&desc=Android%20Developer%20%7C%20Cursor%20Ambassador%20%7C%20Computer%20Engineer&descAlign=50&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff" alt="Emre Ozcan Header"/>
+</div>
 
-<img align="right"  height="300" src="https://user-images.githubusercontent.com/49096704/142056204-a99cad45-db72-4d3b-a785-b2fc949e2b52.gif">
+<div align="center">
+  
+  <a href="https://bit.ly/emreozcandev">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/emre-özcan-6aa582193">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/developer?id=Emre+Ozcan">
+    <img src="https://img.shields.io/badge/Google_Play-My_Apps-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+  <a href="https://apps.apple.com/us/developer/emre-ozcan/id1747327800">
+    <img src="https://img.shields.io/badge/App_Store-My_Apps-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+  </a>
+  <a href="mailto:developer.emreozcan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<br />
+
+### 👨‍💻 About Me
+
+I am a passionate **Computer Engineer** and **Native Android Developer** based in **Ankara, Türkiye**. Currently, I work as a **Software Engineer at Innova**, focusing on fintech solutions and building robust mobile applications using **Kotlin**, **Java**, and **Jetpack Compose**.
+
+As a **Cursor Ambassador** for Ankara, I am deeply committed to the developer community, sharing knowledge on AI-assisted coding, and mentoring upcoming developers.
+
+* 🔭 **Current Role:** Developing **fintech and payment systems** at Innova.
+* 🌱 **Expertise:** Clean Architecture, MVVM, End-to-End Encrypted Messaging, and Hilt/Dagger dependency injection.
+* 🏆 **Awards:** Best Presentation Award at Teknofest Istanbul 2021.
+* ⚡ **Community:** I actively organize events to teach **Cursor**.
 
 ---
 
-**👨‍💻 About me**
-- 🌐  [My Portfolio](https://bit.ly/emreozcandev)
+### 🛠️ Tech Stack & Tools
 
-- 💼 Android Developer at [İnnova](https://www.innova.com.tr/home)
+<div align="center">
 
-- ❤️ I love writing Kotlin
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  
+  <br/>
 
-- 💬 Ask me about anything [here](mailto:developer.emreozcan@gmail.com)
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Arch-000000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVVM-Architecture-ff69b4?style=for-the-badge&logo=expertsexchange&logoColor=white" />
 
-- 📱  My Apps in the [Play Store](https://play.google.com/store/apps/developer?id=Emre+Ozcan)
+  <br/>
 
-***
-**🚀 Languages and Tools:**
-<br/><br/>
-<img height="30" src="https://user-images.githubusercontent.com/49096704/142054706-4e4b6ff0-e2b8-4870-bf74-23e193676300.png">
-<img height="30" src="https://user-images.githubusercontent.com/49096704/142054822-ccd82217-ebc8-4364-b71f-e9910f77f8f6.png">
-<img height="30" src="https://user-images.githubusercontent.com/49096704/142054379-fa1b1150-e910-4da3-bf7b-6e0b8ffc6da0.png">
-<img height="30" src="https://user-images.githubusercontent.com/49096704/142054544-2049bd79-6356-43dd-8c27-1fdeaac76af4.png">
-<img height="30" src="https://user-images.githubusercontent.com/49096704/142054964-2887a1ca-9746-49df-b057-a35f23e078e4.png">
-<img height="30" src="https://user-images.githubusercontent.com/49096704/142055282-7136d443-2d82-4e87-a425-d18a86c54b0c.png">
-<img height="30" src="https://user-images.githubusercontent.com/49096704/142055361-fed960fb-066f-451a-85a9-3728fd4d17fc.png">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hilt-2C2C2C?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit-333333?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines-808080?style=for-the-badge&logo=kotlin&logoColor=white" />
 
+  <br/>
 
-***
-
-<p align="center">
- <a href="https://bit.ly/emreozcandev" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"" />
- </a>
- <a href="https://www.linkedin.com/in/emre-özcan-6aa582193" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white""/>
- </a>
- <a href="https://www.instagram.com/emreozcan.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://youtube.com/@emreozcandev?si=q7lPZDyTrfUOW2C9" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"  />
-  </a> 
-</p>
-<br />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  
+</div>
