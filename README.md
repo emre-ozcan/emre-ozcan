@@ -26,11 +26,11 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Computer Engineer** and **Native Android Developer** based in **Ankara, Türkiye**. Currently, I work as a **Software Engineer at Innova**, focusing on fintech solutions and building robust mobile applications using **Kotlin**, **Java**, and **Jetpack Compose**.
+I am a passionate **Computer Engineer** and **Native Android Developer** based in **Ankara, Türkiye**. Currently, I work as a **Software Engineer at Trendyol Group**, focusing on fintech solutions and building robust mobile applications using **Kotlin**, **Java**, and **Jetpack Compose**.
 
 As a **Cursor Ambassador** for Ankara, I am deeply committed to the developer community, sharing knowledge on AI-assisted coding, and mentoring upcoming developers.
 
-* 🔭 **Current Role:** Developing **fintech and payment systems** at Innova.
+* 🔭 **Current Role:** Software Engineer at Trendyol Group 🧡.
 * 🌱 **Expertise:** Clean Architecture, MVVM, End-to-End Encrypted Messaging, and Hilt/Dagger dependency injection.
 * 🏆 **Awards:** Best Presentation Award at Teknofest Istanbul 2021.
 * ⚡ **Community:** I actively organize events to teach **Cursor**.
